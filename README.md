@@ -73,7 +73,7 @@ Aspiring Data Scientist with a degree in CSE (AI-ML) from Sreyas Institute of En
 <p align="center">
 K Hruthik Varma - hruthikthebest@gmail.com
 <br>
-Project Link: [https://github.com/k-hruthik](https://github.com/k-hruthik)
+Project Link: [https://github.com/k-hruthik]
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
