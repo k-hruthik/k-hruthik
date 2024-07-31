@@ -2,10 +2,17 @@
 <a id="readme-top"></a>
 
 <!-- PROJECT SHIELDS -->
+<!-- PROJECT SHIELDS -->
 <p align="center">
-  [![LinkedIn][linkedin-shield]][linkedin-url]
-  [![GitHub followers][github-followers-shield]][github-followers-url]
-  [![Gmail][gmail-shield]][gmail-url]
+  <a href="https://linkedin.com/in/hruthik-varma">
+    <img src="https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/k-hruthik?tab=followers">
+    <img src="https://img.shields.io/github/followers/k-hruthik?style=for-the-badge" alt="GitHub followers">
+  </a>
+  <a href="mailto:hruthikthebest@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </p>
 
 <!-- PROJECT LOGO -->
