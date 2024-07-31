@@ -17,7 +17,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/k-hruthik/my-repositary/blob/main/Untitled%20(1).png">
-    <img src="https://github.com/k-hruthik/my-repositary/blob/main/Untitled%20(1).png" alt="Logo" width="800" height="800>
+    <img src="https://github.com/k-hruthik/my-repositary/blob/main/Untitled%20(1).png" alt="Logo" width="200" height="200>
   </a>
 
 <h3 align="center">K Hruthik Varma - Aspiring Data Scientist</h3>
