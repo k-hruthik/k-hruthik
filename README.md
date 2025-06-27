@@ -1,7 +1,6 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link -->
 <a id="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
 <!-- PROJECT SHIELDS -->
 <p align="center">
   <a href="https://linkedin.com/in/hruthik-varma">
@@ -21,7 +20,7 @@
     <img src="https://github.com/k-hruthik/my-repositary/blob/main/Untitled%20(1).png" alt="Logo" width="250" height="250">
   </a>
 
-<h1>K Hruthik Varma - Aspiring Data Scientist</h1>
+<h1>K Hruthik Varma - Data Science & AI Enthusiast</h1>
 
   <p>
     Welcome to my GitHub profile!
@@ -51,7 +50,7 @@
 ## About Me
 
 <p align="center">
-Aspiring Data Scientist with a degree in CSE (AI-ML) from Sreyas Institute of Engineering & Technology, I have hands-on experience in data analysis, machine learning, and AI from internships at Unified Mentor, CodSoft, and Afame Technologies. As a Data Analytics Engineer, I focus on optimizing sales performance. My technical skills include Python, SQL, and data visualization tools, and I am passionate about leveraging data to drive insights and make informed decisions. Currently, I'm seeking opportunities to apply my expertise in data science and contribute to impactful projects.
+I'm a Machine Learning Engineer with a degree in Computer Science and Engineering (AI & ML) from Sreyas Institute of Engineering & Technology. I have gained practical experience through internships at  Techwave,  Afame Technologies, CodSoft, ,Unified Mentor. My work includes building ML models, deploying AI solutions, and driving insights through data analytics. I’m passionate about AI, NLP, computer vision, and generative models, and I continuously seek opportunities to contribute to impactful, real-world projects using data.
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -60,16 +59,11 @@ Aspiring Data Scientist with a degree in CSE (AI-ML) from Sreyas Institute of En
 ## Skills
 
 <p align="center">
-- Python<br>
-- MySQL<br>
-- Power BI<br>
-- Java<br>
-- Problem Solving<br>
-- Tableau<br>
-- Artificial Intelligence<br>
-- Machine Learning<br>
-- Data Visualization<br>
-- Excel
+<b>Programming:</b> Python, Java, C<br>
+<b>Data & Tools:</b> MySQL, Power BI, Tableau, Excel<br>
+<b>ML & AI:</b> Scikit-learn, OpenCV, NLP, Generative AI, Deep Learning, Reinforcement Learning<br>
+<b>Web Tech:</b> HTML, CSS, JavaScript, FastAPI<br>
+<b>Others:</b> Git, GitHub, Linux, Problem Solving, Team Collaboration
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -78,17 +72,10 @@ Aspiring Data Scientist with a degree in CSE (AI-ML) from Sreyas Institute of En
 ## Contact
 
 <p align="center">
-K Hruthik Varma - hruthikthebest@gmail.com
-<br>
-Project Link: [https://github.com/k-hruthik]
+<b>K Hruthik Varma</b> - hruthikthebest@gmail.com<br>
+📍 Hyderabad, Telangana, India<br>
+📁 GitHub: <a href="https://github.com/k-hruthik">https://github.com/k-hruthik</a><br>
+🔗 LinkedIn: <a href="https://linkedin.com/in/hruthik-varma">https://linkedin.com/in/hruthik-varma</a>
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/hruthik-varma
-[github-followers-shield]: https://img.shields.io/github/followers/k-hruthik?style=for-the-badge
-[github-followers-url]: https://github.com/k-hruthik?tab=followers
-[gmail-shield]: https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white
-[gmail-url]: mailto:hruthikthebest@gmail.com
